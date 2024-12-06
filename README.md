@@ -26,21 +26,27 @@
 <br />
 
 
+
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=haytham.hammame)
-
-<br />
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=haytham.hammamz&left_color=black&right_color=green)
 
 <details>
+<summary>
+  More stuff about me
+</summary>
 
-<br>
+<br >
 
-<summary> Github Stats
- 
+I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+
+#### What is CoderOne?
+
+CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+
 
 ![haytham-hammame's github stats](https://github-readme-stats.vercel.app/api?username=haytham-hammame&count_private=true&theme=tokyonight&hide=contribs,prs)
-<summary/>
+
 
 
 </details>
