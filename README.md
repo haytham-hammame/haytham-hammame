@@ -1,4 +1,3 @@
-![banniere](https://github.com/user-attachments/assets/b02c8729-3ed7-443a-bfa7-61dd28ee021c)
 ## Hi I'm Haytham <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 🚀 Hi, I'm Haytham Hammame. I'm passionate about sports and fitness, and I enjoy staying active. Lately, my biggest passion has been informatics, specifically web development and software applications. I live in France and am currently undergoing training at the Ecole de Numérique platform in Marseille to enhance my skills in the tech field.
