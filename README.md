@@ -36,11 +36,11 @@
 </summary>
 
 <br >
-Profile Visits  
+* Profile Visits  
 
 ![Visitors](https://komarev.com/ghpvc/?username=haytham-hammame&label=Visitors)
 
-Github stats
+* Github stats
 
 ![haytham-hammame's github stats](https://github-readme-stats.vercel.app/api?username=haytham-hammame&count_private=true&theme=tokyonight&hide=contribs,prs)
 
