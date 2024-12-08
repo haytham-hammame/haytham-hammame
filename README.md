@@ -43,7 +43,7 @@
 
 * Github stats
 
-![haytham-hammame's github stats](https://github-readme-stats.vercel.app/api?username=haytham-hammame&count_private=true&theme=tokyonight&hide=contribs,prs)
+<a href="http://www.github.com/haytham-hammame"><img src="https://github-readme-stats.vercel.app/api?username=haytham-hammame&show_icons=true&hide=prs,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="haytham-hammame's GitHub stats" /></a>
 
 
 
