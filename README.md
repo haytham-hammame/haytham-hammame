@@ -54,4 +54,4 @@
 </details>
 
 
-[def]: https://visitor-badge.glitch.me/badge?page_id=haytham.hammame&left_color=green&right_color=red
+
