@@ -37,13 +37,13 @@
 
 <br >
 
-* Profile Visits  
+<b>Profile Visits<b/>  
 
 ![Visitors](https://komarev.com/ghpvc/?username=haytham-hammame&label=Visitors)
 
-* Github stats
+<b>Github stats<b/>
 
-<a href="http://www.github.com/haytham-hammame"><img src="https://github-readme-stats.vercel.app/api?username=haytham-hammame&show_icons=true&hide=prs,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="haytham-hammame's GitHub stats" /></a>
+<a href="http://www.github.com/haytham-hammame"><img src="https://github-readme-stats.vercel.app/api?username=haytham-hammame&show_icons=true&hide=prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="haytham-hammame's GitHub stats" /></a>
 
 
 
