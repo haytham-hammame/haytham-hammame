@@ -16,7 +16,7 @@
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help to find a work-study opportunity (alternance) in France.
 - 📫 How to reach me: :email: haytham.hammame@laplateforme.io .
-- 🖥️  See my portfolio at [MyPortfolio](http://apres,,,,,,,)
+- 🖥️  See my portfolio at [MyPortfolio](https://haytham-hammame.github.io/portfolio/)
 - 🥅 2022 Goals: Contributing more about Open Source Projects.
 - ⚡ Fun fact: I'm a professional calisthenics athlete.
 
