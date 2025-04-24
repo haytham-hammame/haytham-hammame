@@ -7,7 +7,7 @@
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Haytham-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haytham-hammame-bb7195340/) [![Mail Badge](https://img.shields.io/badge/-@haytam.hme-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/haytam.hme?igsh=MW5lMnk0Nzlxajgzag%3D%3D&utm_source=qr) [![Mail Badge](https://img.shields.io/badge/-haytham.hammame@laplateforme.io-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:haytham.hammame@laplateforme.io)
+[![LinkedIn](https://img.shields.io/badge/-Haytham-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haytham-hammame-bb7195340/)(https://www.linkedin.com/in/haytham-hammame-bb7195340/) [![Mail Badge](https://img.shields.io/badge/-@haytam.hme-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/haytam.hme?igsh=MW5lMnk0Nzlxajgzag%3D%3D&utm_source=qr) [![Mail Badge](https://img.shields.io/badge/-haytham.hammame@laplateforme.io-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:haytham.hammame@laplateforme.io)
 
 
 ### What I currently Do
