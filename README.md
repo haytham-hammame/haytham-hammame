@@ -19,7 +19,7 @@
 - 🔭 I’m currently pursuing my Bachelor’s degree in web development and software applications
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help to find a work-study opportunity (alternance) in France.
-- 📫 How to reach me: :email: haytham.hammame@laplateforme.io .
+- 📫 How to reach me: :email: haytamhammame@gmail.com .
 - 🖥️  See my portfolio at [MyPortfolio](https://haytham-hammame.github.io/portfolio/)
 - 🥅 2022 Goals: Contributing more about Open Source Projects.
 - ⚡ Fun fact: I'm a professional calisthenics athlete.
